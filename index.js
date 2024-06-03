@@ -1,3 +1,3 @@
 export async function onPreBuild() {
-  console.log('onBuild hook - v1');
+  console.log('onBuild hook - v3');
 }
